@@ -8,7 +8,7 @@ Project Network Programming and Automation (NPA) Network Automation using Terraf
 Information. 
 ---
 Document link:  
-Youtune link: 
+Youtube link: 
 
 Authors 
 ---
@@ -20,7 +20,7 @@ Authors
 <th scope="col">STD.code</th>
 </thead><tbody>
   <tr>  <th scope="row">#1</th>  <td> นาย ภูริณัฐ</td>  <td>จิตมนัส</td> <td>61070171</td>  </tr>
-  <tr>  <th scope="row">#2</th>  <td> นาย นาย วัฒนวิชญ์</td>  <td>มิ่งเชื้อ</td> <td>61070153</td>  </tr>
+  <tr>  <th scope="row">#2</th>  <td> นาย วัฒนวิทย์</td>  <td>มิ่งเชื้อ</td> <td>61070205</td>  </tr>
   <tr>  <th scope="row">#3</th>  <td> นาย วิศรุต</td>  <td>แก้วงาม</td> <td>61070210</td>  </tr>
 </tbody></table>
 
