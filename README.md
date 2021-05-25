@@ -7,8 +7,8 @@ Project Network Programming and Automation (NPA) Network Automation using Terraf
 
 Information. 
 ---
-Document link:  
-Youtube link: 
+Document link: https://docs.google.com/document/d/1cYLSimdW31twSHBx158unRXbF083jb4Qk8LQQgQqNy8/edit?usp=sharing 
+Youtube link: https://youtu.be/FlzanATvmUo
 
 Authors 
 ---
